@@ -18,3 +18,10 @@ But compiled as a Standalone Application you can give other people the ability t
 # Binaries
 A compiled version of the GUI is included in this repository.<br>
 To run it, you need the Matlab Runtime for [version 2019b](https://de.mathworks.com/products/compiler/matlab-runtime.html)
+
+# Example
+- Example image shows simple Matlab command that can be executed with the return key
+- You can also define and use arrays or other multi dimensional objects - e.g. arr = [1, 2, 3 , 4];
+
+  
+<img width="800" alt="GUI_Input_Example" src="https://github.com/user-attachments/assets/4f3f1850-1f72-4863-86ef-87ae14d556e9" />
